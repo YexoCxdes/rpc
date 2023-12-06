@@ -5,7 +5,7 @@ from datetime import datetime
 
 time1 = datetime.now().strftime("%H:%M")
 
-client_id = 1143916261865164870
+client_id = 
 RPC = Presence(client_id)  # Initialize the client class
 data = None
 img = None
